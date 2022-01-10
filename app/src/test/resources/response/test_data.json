@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Marianne Garvey",
+      "title": "'Full House' co-star John Stamos and more remember Bob Saget - CNN",
+      "description": "Comedian and actor Bob Saget, who died Sunday at age 65, is being remembered for his humor and kindness by his friends and former colleagues.",
+      "url": "https://www.cnn.com/2022/01/09/entertainment/full-house-bob-saget-remembered/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220109193940-01-bob-saget-lead-image-super-tease.jpg",
+      "publishedAt": "2022-01-10T12:31:00Z",
+      "content": "(CNN)Comedian and actor Bob Saget, who died Sunday at age 65, is being remembered for his humor and kindness by his friends and former colleagues.\r\nJohn Stamos led the tributes, writing about his for… [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Caroline Caroline",
+      "title": "Alexandria Ocasio-Cortez tests positive for COVID-19 - CBS News",
+      "description": "\"She is experiencing symptoms and recovering at home,\" her office said in a statement on Sunday.",
+      "url": "https://www.cbsnews.com/news/alexandria-ocasio-cortez-covid-19-test-positive/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/09/2768a1c5-6d80-4494-aad8-5cdaf0270080/thumbnail/1200x630g1/cec0df1db1a8b17b0877678ad7902ea9/gettyimages-1357951389.jpg",
+      "publishedAt": "2022-01-10T12:27:19Z",
+      "content": "Representative Alexandria Ocasio-Cortez has tested positive for COVID-19, her office said in a statement on Sunday. \r\n\"She is experiencing symptoms and recovering at home,\" the statement said. \"The C… [+2743 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ben Morse, CNN",
+      "title": "NFL playoffs set after Las Vegas Raiders' dramatic overtime victory over LA Chargers - CNN",
+      "description": "And so, there were 14.",
+      "url": "https://www.cnn.com/2022/01/10/sport/nfl-playoffs-raiders-chargers-spt-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220110045514-01-raiders-chargers-01092022-super-tease.jpg",
+      "publishedAt": "2022-01-10T11:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Francis X. Rocca",
+      "title": "Pope Francis Denounces ‘Cancel Culture’ and Antivaccine ‘Ideology’ - The Wall Street Journal",
+      "description": "Pontiff also warned of children’s social isolation from school closures during pandemic",
+      "url": "https://www.wsj.com/articles/pope-francis-denounces-cancel-culture-and-antivaccine-ideology-11641814583",
+      "urlToImage": "https://images.wsj.net/im-464589/social",
+      "publishedAt": "2022-01-10T11:36:00Z",
+      "content": "ROMEPope Francis on Monday warned that antivaccine misinformation was undermining recovery from the pandemic and denounced a cancel culture intolerant of traditional values that he said was impeding … [+362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "Google says Apple ‘should not benefit from bullying’ created by iMessage lock-in - The Verge",
+      "description": "Google’s head of Android has accused Apple of using “peer pressure and bullying” to sell phones — a side-effect of the company’s lock-in strategy for iOS iMessages.",
+      "url": "https://www.theverge.com/2022/1/10/22876067/google-apple-ios-android-imessages-bullying-lockheimer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/eZA0l7oeknABTGvHHgVifBG_200=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13635741/akrales_181218_2952_0084.jpg",
+      "publishedAt": "2022-01-10T11:08:03Z",
+      "content": "Blue bubble envy is real\r\nApples Messages app distinguishes between iOS users (in blue) and Android users (in green). \r\nPhoto by Amelia Holowaty Krales / The Verge\r\nGoogle has accused Apple of benefi… [+2480 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Brady Dennis, Maxine Joselow",
+      "title": "US greenhouse gas emissions rose in 2021 as coal use spiked, Rhodium Group says - The Washington Post",
+      "description": "The increase was driven in part by a jump in coal-fired power generation, according to a report from the Rhodium Group.",
+      "url": "https://www.washingtonpost.com/climate-environment/2022/01/10/us-emissions-surged-2021-putting-nation-further-off-track-its-climate-targets/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BU5WGXTENQI6ZG2ROEY7UGIMLY.jpg&w=1440",
+      "publishedAt": "2022-01-10T11:02:08Z",
+      "content": "The rise in the nations emissions, which many experts anticipate will continue this year, is a sign of an economy on the mend. But it also signals a potentially ominous climate reality: The United St… [+6790 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/steve-dent",
+      "title": "Scientists observe a red supergiant going supernova for the first time - Engadget",
+      "description": "Astronomers have captured a red supergiant supernova explosion for the first time, gathering crucial new information about these dramatic events..",
+      "url": "https://www.engadget.com/scientists-see-a-red-giant-star-go-supernova-for-the-first-time-104442583.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/86b61ff0-71fd-11ec-b7f7-531432b7a0da",
+      "publishedAt": "2022-01-10T10:46:45Z",
+      "content": "Despite the massive number of stars in the sky, spotting one in the throes of a supernova is still an incredibly rare event. Now, astronomers have captured a red supergiant before, during and after a… [+2138 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Melanie Evans",
+      "title": "Hospitals Cut Beds as Nurses Call In Sick With Covid-19 - The Wall Street Journal",
+      "description": "Without enough critical workers during the Omicron surge, some facilities say they must limit capacity to assure proper patient care\n\t\t\n\t\t\t<br/>",
+      "url": "https://www.wsj.com/articles/hospitals-cut-beds-as-nurses-call-in-sick-with-covid-19-11641810781",
+      "urlToImage": "https://images.wsj.net/im-463404/social",
+      "publishedAt": "2022-01-10T10:33:00Z",
+      "content": "Rising numbers of nurses and other critical healthcare workers are calling in sick across the U.S. due to Covid-19, forcing hospitals to cut capacity just as the Omicron variant sends them more patie… [+5551 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "T-cells from common colds can provide protection against COVID-19 - study - Reuters",
+      "description": "High levels of T-cells from common cold coronaviruses can provide protection against COVID-19, an Imperial College London study published on Monday has found, which could inform approaches for second-generation vaccines.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/t-cells-common-colds-can-provide-protection-against-covid-19-study-2022-01-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v1mTm7ls0Z9R-0upqSQnkEV1npg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EEUDNUWGDRLVRPZRPBPDGON6SQ.jpg",
+      "publishedAt": "2022-01-10T10:12:00Z",
+      "content": "LONDON, Jan 10 (Reuters) - High levels of T-cells from common cold coronaviruses can provide protection against COVID-19, an Imperial College London study published on Monday has found, which could i… [+1974 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Nicholas Wu",
+      "title": "Jan. 6 panel ramps up investigation into Trump's state-level pressure - POLITICO",
+      "description": "POLITICO has identified the information the committee has received from key swing states, as lawmakers prepare to take their findings public.",
+      "url": "https://www.politico.com/news/2022/01/10/jan-6-committee-ramps-up-state-level-investigation-526752",
+      "urlToImage": "https://static.politico.com/a8/fb/1018fb734ec5a54ff6906604ce92/ap21348661007318-1.jpg",
+      "publishedAt": "2022-01-10T09:30:46Z",
+      "content": "A previously unreported email from one of Raffenspergers top aides, Jordan Fuchs, was also turned over to the committee. In it, Fuchs responded to Meadows' Dec. 22, 2020, trip to Georgia's Cobb Count… [+2592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Death toll in rockfall on Brazilian lake rises to 10 - New York Post ",
+      "description": "The death toll from an accident in which a slab of cliff rock toppled onto pleasure boaters on a Brazilian lake has risen to 10.",
+      "url": "https://nypost.com/2022/01/10/death-toll-in-rockfall-on-brazilian-lake-rises-to-10/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/AP22009653348536.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2022-01-10T09:28:00Z",
+      "content": "The death toll from an accident in which a slab of cliff rock toppled onto pleasure boaters on a Brazilian lake has risen to 10, police said Sunday. Authorities worked to identify the dead and divers… [+1988 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Susannah Cullinane, CNN",
+      "title": "Bronx apartment fire that left 19 dead and 63 injured started with a bedroom space heater, fire chief says - CNN",
+      "description": "A malfunctioning electric space heater in a bedroom was the source of an apartment building fire Sunday in the Bronx that killed 19 people, New York City's fire commissioner said, in a tragedy that marks one of the city's worst fires in modern history and rai…",
+      "url": "https://www.cnn.com/2022/01/10/us/nyc-bronx-apartment-fire-monday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220110002328-bronx-fire-aftermath-01092022-super-tease.jpg",
+      "publishedAt": "2022-01-10T08:45:00Z",
+      "content": "(CNN)A malfunctioning electric space heater in a bedroom was the source of an apartment building fire Sunday in the Bronx that killed 19 people, New York City's fire commissioner said, in a tragedy t… [+7749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Associated Press",
+      "title": "Stocks flat in early trading as cautious investors await March hike in short-term interest rates - Fox Business",
+      "description": "U.S. stocks edged higher early Monday morning as investors were cautiously hedging their bets on higher short-term interest rates arriving as soon as March.",
+      "url": "https://www.foxbusiness.com/markets/stocks-higher-in-early-trading-as-cautious-investors-await-march-hike-in-short-term-interest-rates",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/stocks-xxx.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-10T08:26:10Z",
+      "content": "U.S. stocks were flat early Monday morning after modest gains earlier in the day as investors were cautiously hedging their bets on higher short-term interest rates arriving as soon as March and earn… [+2779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Holly Ellyatt",
+      "title": "'Zero trust' and mutual dislike: Why hopes to resolve U.S.-Russia tensions are low as talks kick off - CNBC",
+      "description": "Tensions remain higher than ever over Ukraine but both sides have already warned prospects for a resolution are low.",
+      "url": "https://www.cnbc.com/2022/01/10/us-russia-talks-in-geneva-hopes-for-resolution-to-ukraine-tension-low.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106963728-1634813365313-gettyimages-1208224287-RUSSIA_VIRUS_PUTIN.jpeg?v=1634813561",
+      "publishedAt": "2022-01-10T08:13:44Z",
+      "content": "A customers wears a protective face mask inside a cafe as a television screen displays Russian President Vladimir Putin.\r\nU.S. and Russian officials have kicked off a series of high-stakes talks in G… [+5335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Ivan Nechepurenko",
+      "title": "Nearly 6,000 Detained Amid Unrest in Kazakhstan - The New York Times",
+      "description": "Protests that began last weekend over a hike in fuel prices spread across the country, leaving at least 2,000 injured, government officials said. Dozens of deaths also appeared likely.",
+      "url": "https://www.nytimes.com/2022/01/09/world/europe/kazakhstan-protests-detained-injured.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/01/09/world/09kazakhstan/09kazakhstan-facebookJumbo.jpg",
+      "publishedAt": "2022-01-10T07:48:00Z",
+      "content": "BISHKEK, Kyrgyzstan At least 5,800 people have been detained and more than 2,000 injured during several days of violence last week in Kazakhstan, government officials said on Sunday, after protests i… [+946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Richard C. Paddock",
+      "title": "Aung San Suu Kyi Gets 4 Years on Walkie-Talkie and Covid Charges - The New York Times",
+      "description": "Myanmar’s ousted civilian leader was convicted on three more counts, which her defenders said were politically motivated.",
+      "url": "https://www.nytimes.com/2022/01/10/world/asia/myanmar-aung-san-suu-kyi-verdict.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/01/10/world/10myanmar-ve/10myanmar-ve-facebookJumbo.jpg",
+      "publishedAt": "2022-01-10T07:16:43Z",
+      "content": "She was sentenced to two years on the Covid protocol, two years on the charge of importing the walkie-talkies, and to one year for violating the telecommunications law. The sentences connected to the… [+1063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Chris Haynes",
+      "title": "Danny Green on his role in Klay Thompson's ACL injury: 'If I can take that play back, I would' - Yahoo Sports",
+      "description": "“No one wants to see a great player go down, and no one wants to be the cause of that. It wasn't intentional. I’m glad that he’s back. The game has missed...",
+      "url": "https://sports.yahoo.com/danny-green-on-his-role-in-klay-thompsons-acl-injury-if-i-can-take-that-play-back-i-would-064609296.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i_YDXQKXb7biDt9AkEs7_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/09e30a50-71e0-11ec-bdef-faf45ad58c12",
+      "publishedAt": "2022-01-10T06:46:00Z",
+      "content": "SAN FRANCISCO Philadelphia 76ers guard Danny Green couldnt wait to see Golden State Warriors star Klay Thompsonback on the court after over two years away from the game due to recovering from a torn … [+4118 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Morgan McFall-Johnsen",
+      "title": "Remember That Weird 'Cube' on The Moon? Yutu-2 Finally Took Closer Pictures - ScienceAlert",
+      "description": "China's Yutu-2 rover, on the far side of the moon, drove towards the \"mysterious hut\" for a better look. It's not an alien structure.",
+      "url": "https://www.businessinsider.com/moon-cube-discovered-by-chinese-rover-is-just-a-rock-2022-1",
+      "urlToImage": "https://i.insider.com/61d8aa2bd21c1e0019ee511a?width=1200&format=jpeg",
+      "publishedAt": "2022-01-10T06:35:26Z",
+      "content": "China's mysterious \"moon cube\" is a mystery no longer. The big reveal: It's a rock that's not even shaped like a cube.\r\nThe nation's Yutu-2 rover discovered the object which appeared to be a gray cub… [+2098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Clayton Davis",
+      "title": "Golden Globes Put on an Event That Could Have Been Put in an Email - Variety",
+      "description": "The Golden Globes were held with no pomp and circumstance in a room devoid of celebrities, red carpets and splashy media coverage. Instead, winners were live-tweeted on the Hollywood Foreign Press Association’s social media channels, with the show focusing on…",
+      "url": "https://variety.com/2022/awards/news/golden-globes-twitter-show-netflix-oscars-1235149983/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2021/05/Golden-Globes-Placeholder-5.jpg?w=1000",
+      "publishedAt": "2022-01-10T06:03:00Z",
+      "content": "The Golden Globes were held with no pomp and circumstance in a room devoid of celebrities, red carpets and splashy media coverage. Instead, winners were live-tweeted on the Hollywood Foreign Press As… [+8475 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Edmund DeMarche",
+      "title": "LAPD officers pull pilot from plane seconds before train crash in dramatic video - Fox News",
+      "description": "The Los Angeles Police Department late Sunday released footage that showed police officers pulling a bleeding pilot to safety just moments before a barreling train collided with his plane stuck on the tracks.",
+      "url": "https://www.foxnews.com/us/lapd-releases-video-showing-cops-pulling-pilot-from-crashed-plane-seconds-before-train-crash",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/LAPD.jpg",
+      "publishedAt": "2022-01-10T05:36:17Z",
+      "content": "LOS ANGELES -- The Los Angeles Police Department late Sunday released footage that showed police officers pulling a bleeding pilot to safety just moments before a barreling train collided with his pl… [+1767 chars]"
+    }
+  ]
+}
